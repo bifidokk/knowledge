@@ -1,4 +1,4 @@
-# Initial page
+# About me
 
 Hey! Ho!
 

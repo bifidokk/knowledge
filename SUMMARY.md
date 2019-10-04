@@ -1,4 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [About me](README.md)
+* [Programming languages](programming-languages/README.md)
+  * [Go](programming-languages/go.md)
 
