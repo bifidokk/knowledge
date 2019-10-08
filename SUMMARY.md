@@ -5,4 +5,6 @@
   * [Work](life/work.md)
 * [Programming languages](programming-languages/README.md)
   * [Go](programming-languages/go.md)
+* [Programming](programming/README.md)
+  * [JWT](programming/jwt.md)
 
