@@ -7,6 +7,6 @@
 * [Visualizing Concurrency in Go](https://divan.dev/posts/go_concurrency_visualize/)
 * [Golang sizeof tips](http://golang-sizeof.tips/) - Web tool for interactive playing with Golang struct sizes
 * [Coding exercises for budding gophers](https://gophercises.com) - Free course with interesting tasks that will help in Golang learning
-
+* [Dynamic JSON in Go](https://eagain.net/articles/go-dynamic-json/)
 
 
