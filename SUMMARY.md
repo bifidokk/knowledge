@@ -4,6 +4,7 @@
 * [Books](books/README.md)
 * [Life](life/README.md)
   * [Work](life/work.md)
+* [Podcasts](podcasts/README.md)
 * [Programming languages](programming-languages/README.md)
   * [Go](programming-languages/go.md)
   * [JavaScript](programming-languages/javascript.md)

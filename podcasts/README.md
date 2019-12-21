@@ -1,4 +1,4 @@
-# Books
+# Podcasts
 
 I've started listening podcasts in 2019 during walking. Usually I use [Castbox](https://castbox.fm/) application for it.
 List of podcasts that I like
