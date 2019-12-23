@@ -3,6 +3,8 @@
 * [About me](README.md)
 * [Books](books/README.md)
 * [Life](life/README.md)
+  * [Habits](life/habits.md)
+  * [Health](life/health.md)
   * [Work](life/work.md)
 * [Podcasts](podcasts/README.md)
 * [Programming languages](programming-languages/README.md)
