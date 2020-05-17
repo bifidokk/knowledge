@@ -2,6 +2,7 @@
 
 * [About me](README.md)
 * [Books](books/README.md)
+* [Databases](databases/README.md)
 * [Life](life/README.md)
   * [Habits](life/habits.md)
   * [Health](life/health.md)
@@ -15,4 +16,7 @@
       * [RxJs](programming-languages/js-libraries/rxjs.md)
 * [Programming](programming/README.md)
   * [JWT](programming/jwt.md)
+  * [Version control](programming/version-control/version-control.md)
+      * [Git](programming/version-control/git.md)
 * [Security](security/README.md)
+* [Tools](tools/README.md)
