@@ -3,6 +3,8 @@
 * [About me](README.md)
 * [Books](books/README.md)
 * [Databases](databases/README.md)
+* [Games](games/README.md)
+  * [Gamedev](games/gamedev.md)
 * [Life](life/README.md)
   * [Habits](life/habits.md)
   * [Health](life/health.md)
