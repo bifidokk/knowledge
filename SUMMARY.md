@@ -2,6 +2,8 @@
 
 * [About me](README.md)
 * [Books](books/README.md)
+* [Cloud computing](cloud-computing/README.md)
+  * [AWS](cloud-computing/aws.md)
 * [Databases](databases/README.md)
 * [Games](games/README.md)
   * [Gamedev](games/gamedev.md)
@@ -11,6 +13,7 @@
   * [Work](life/work.md)
 * [Networking](networking/README.md)
   * [TCP](networking/tcp.md)
+  * [SSH](networking/ssh.md)
 * [Operating systems](operating-systems/README.md)
   * [Linux](operating-systems/linux.md)
 * [Podcasts](podcasts/README.md)
