@@ -9,5 +9,4 @@
 * [Coding exercises for budding gophers](https://gophercises.com) - Free course with interesting tasks that will help in Golang learning
 * [Dynamic JSON in Go](https://eagain.net/articles/go-dynamic-json/)
 * [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/)
-
-
+* [How to Parse JSON That Varies Between an Array or a Single Item With Go](https://www.calhoun.io/how-to-parse-json-that-varies-between-an-array-or-a-single-item-with-go/)
