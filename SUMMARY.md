@@ -12,6 +12,7 @@
 * [Life](life/README.md)
   * [Habits](life/habits.md)
   * [Health](life/health.md)
+  * [Learning](life/learning.md)
   * [Sleep](life/sleep.md)
   * [Work](life/work.md)
 * [Networking](networking/README.md)
