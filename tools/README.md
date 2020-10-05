@@ -9,3 +9,4 @@ Awesome and useful tools
 * [fzf](https://github.com/junegunn/fzf) - a command-line fuzzy finder 
 * [Localxpose](https://localxpose.io/) - a reverse proxy that enables you to expose your localhost to the internet. It is an alternative to ngrok.
 * [PDF Wrench](https://pdfwrench.com/) - PDF merging tool
+* [Anbox](https://anbox.io/) - Run Android applications on any GNU/Linux operating system
