@@ -2,4 +2,4 @@
 
 ##Links
 
-* [DTO in the form request](https://sandulat.com/mapping-requests-to-dtos-inside-form-requests/)
+* [DTO in the form requests](https://sandulat.com/mapping-requests-to-dtos-inside-form-requests/)
