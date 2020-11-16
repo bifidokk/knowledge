@@ -12,3 +12,4 @@
 * [How to Parse JSON That Varies Between an Array or a Single Item With Go](https://www.calhoun.io/how-to-parse-json-that-varies-between-an-array-or-a-single-item-with-go/)
 * [Let's build a Full-Text Search engine](https://artem.krylysov.com/blog/2020/07/28/lets-build-a-full-text-search-engine/)
 * [Best Practices For Writing Clean Interfaces in Go](https://qvault.io/2020/03/15/best-practices-for-writing-clean-interfaces-in-go/)
+* [Golang design patterns](https://github.com/senghoo/golang-design-pattern)
