@@ -5,6 +5,7 @@
 * [Cloud computing](cloud-computing/README.md)
   * [AWS](cloud-computing/aws.md)
 * [Databases](databases/README.md)
+  * [Postgresql](databases/postgresql.md)
 * [Front-end](front-end/README.md)
   * [CSS](front-end/css.md)
 * [Games](games/README.md)
