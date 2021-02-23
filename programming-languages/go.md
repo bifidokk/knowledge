@@ -13,3 +13,4 @@
 * [Let's build a Full-Text Search engine](https://artem.krylysov.com/blog/2020/07/28/lets-build-a-full-text-search-engine/)
 * [Best Practices For Writing Clean Interfaces in Go](https://qvault.io/2020/03/15/best-practices-for-writing-clean-interfaces-in-go/)
 * [Golang design patterns](https://github.com/senghoo/golang-design-pattern)
+* [Building Blockchain in Go](https://jeiwan.net/posts/building-blockchain-in-go-part-1/)
