@@ -28,6 +28,7 @@
   * [JavaScript](programming-languages/javascript.md)
     * [JS Libraries](programming-languages/js-libraries/README.md)
       * [Angular](programming-languages/js-libraries/angular.md)
+      * [Node.js](programming-languages/js-libraries/nodejs.md)
       * [RxJs](programming-languages/js-libraries/rxjs.md)
   * [PHP](programming-languages/php.md)
     * [PHP Libraries](programming-languages/php-libraries/README.md)
