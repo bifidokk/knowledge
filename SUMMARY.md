@@ -10,6 +10,8 @@
   * [CSS](front-end/css.md)
 * [Games](games/README.md)
   * [Gamedev](games/gamedev.md)
+* [Languages](languages/README.md)
+  * [Internationalization](languages/internationalization.md)
 * [Life](life/README.md)
   * [Habits](life/habits.md)
   * [Health](life/health.md)
