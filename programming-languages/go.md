@@ -14,3 +14,4 @@
 * [Best Practices For Writing Clean Interfaces in Go](https://qvault.io/2020/03/15/best-practices-for-writing-clean-interfaces-in-go/)
 * [Golang design patterns](https://github.com/senghoo/golang-design-pattern)
 * [Building Blockchain in Go](https://jeiwan.net/posts/building-blockchain-in-go-part-1/)
+* [Darker Corners of Go](https://rytisbiel.com/2021/03/06/darker-corners-of-go/)
