@@ -41,6 +41,7 @@
       * [Git](programming/version-control/git.md)
 * [Security](security/README.md)
 * [Tools](tools/README.md)
+  * [Github](tools/github.md)
 * [Web](web/README.md)
   * [WebRTC](web/webrtc.md)
   * [Browsers](web/browsers.md)
