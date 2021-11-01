@@ -40,6 +40,7 @@
       * [Symfony](programming-languages/php-libraries/symfony.md)
   * [Typescript](programming-languages/typescript.md)
 * [Programming](programming/README.md)
+  * [Continuous integration](programming/continuous-integration.md)
   * [JWT](programming/jwt.md)
   * [Software architecture](programming/software-architecture.md)
   * [Version control](programming/version-control/version-control.md)
