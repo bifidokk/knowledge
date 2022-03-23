@@ -42,6 +42,7 @@
 * [Programming](programming/README.md)
   * [Continuous integration](programming/continuous-integration.md)
   * [JWT](programming/jwt.md)
+  * [System design](programming/system-design.md)
   * [Software architecture](programming/software-architecture.md)
   * [Version control](programming/version-control/version-control.md)
       * [Git](programming/version-control/git.md)
