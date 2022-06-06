@@ -46,6 +46,7 @@
   * [Domain-driven design](programming/domain-driven-design.md)
   * [System design](programming/system-design.md)
   * [Software architecture](programming/software-architecture.md)
+  * [Software testing](programming/software-testing.md)
   * [Version control](programming/version-control/version-control.md)
       * [Git](programming/version-control/git.md)
 * [Security](security/README.md)
