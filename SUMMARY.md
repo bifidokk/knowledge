@@ -6,6 +6,8 @@
   * [AWS](cloud-computing/aws.md)
 * [Databases](databases/README.md)
   * [Postgresql](databases/postgresql.md)
+* [Distributed systems](distributed-systems/README.md)
+  * [Message queue](distributed-systems/message-queue.md)
 * [Front-end](front-end/README.md)
   * [CSS](front-end/css.md)
 * [Games](games/README.md)
