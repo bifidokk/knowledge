@@ -59,3 +59,6 @@
   * [WebRTC](web/webrtc.md)
   * [Browsers](web/browsers.md)
     * [Google Chrome](web/google-chrome.md)
+* [Work](work/README.md)
+  * [Finding work](work/finding-work.md)
+  * [Interviews](work/interviews.md)
