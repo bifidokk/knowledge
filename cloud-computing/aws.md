@@ -1,5 +1,9 @@
 #AWS
 
+##Utilities
+
+- [AWS billing notifications](https://costguard.io/)
+
 ##Links
 
 - [AWS services explained in one line each](https://adayinthelifeof.nl/2020/05/20/aws.html)
