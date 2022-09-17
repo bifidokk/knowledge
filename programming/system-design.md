@@ -10,3 +10,4 @@
 - [Rate limiter and Data modelling](https://medium.com/@saisandeepmopuri/system-design-rate-limiter-and-data-modelling-9304b0d18250)
 - [Learn the most popular approaches for building, securing, and operating webhooks, with recommendations for webhook providers and consumers](https://webhooks.fyi/)
 - [Architecture and Design Principles for Online Food Delivery](https://sandesh-deshmane.medium.com/architecture-and-design-principles-for-online-food-delivery-system-33bfda73785d)
+- [Consistent Hashing](https://www.youtube.com/watch?v=UF9Iqmg94tk)
