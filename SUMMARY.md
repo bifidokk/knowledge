@@ -12,6 +12,7 @@
   * [Message queue](distributed-systems/message-queue.md)
 * [Front-end](front-end/README.md)
   * [CSS](front-end/css.md)
+  * [Tools](front-end/tools.md)
 * [Games](games/README.md)
   * [Gamedev](games/gamedev.md)
 * [Languages](languages/README.md)
