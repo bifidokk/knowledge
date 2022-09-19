@@ -10,3 +10,4 @@
 - [Making Shopify’s Flagship App 20% Faster in 6 Weeks Using a Novel Caching Solution](https://shopify.engineering/shop-app-custom-caching-solution)
 - [Event Driven Architecture — 5 Pitfalls to Avoid](https://medium.com/wix-engineering/event-driven-architecture-5-pitfalls-to-avoid-b3ebf885bdb1)
 - [Паттерн Outbox: как не растерять сообщения в микросервисной архитектуре](https://habr.com/ru/company/lamoda/blog/678932/)
+- ["Understanding Microservices with Distributed Tracing" by Lita Cho](https://www.youtube.com/watch?v=URCLeycMrhU)
