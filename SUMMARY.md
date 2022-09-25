@@ -25,6 +25,7 @@
   * [Work](life/work.md)
 * [Networking](networking/README.md)
   * [HTTP](networking/http.md)
+  * [Nginx](networking/nginx.md)
   * [TCP](networking/tcp.md)
   * [SSH](networking/ssh.md)
 * [Operating systems](operating-systems/README.md)
