@@ -12,3 +12,4 @@ Awesome and useful tools
 - [Anbox](https://anbox.io/) - Run Android applications on any GNU/Linux operating system
 - [Cronhub](https://cronhub.io/) - The fastest way to schedule and monitor cron jobs 
 - [Upstash](https://upstash.com) - Serverless Data for Kafka and Redis
+- [PostgreSQL as a Service](https://www.elephantsql.com/)

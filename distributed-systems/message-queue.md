@@ -2,6 +2,7 @@
 
 ##Kafka
 - [What is Apache Kafka®?](https://www.youtube.com/watch?v=FKgi3n-FyNU)
+- [Exactly-once Semantics is Possible: Here's How Apache Kafka Does it](https://www.confluent.io/blog/exactly-once-semantics-are-possible-heres-how-apache-kafka-does-it/)
 
 ## Links
 
