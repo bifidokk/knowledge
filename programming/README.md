@@ -8,3 +8,4 @@
 - [Floating Point Math](https://0.30000000000000004.com/)
 - [Software engineering practices](https://simonwillison.net/2022/Oct/1/software-engineering-practices/)
 - [Stripe. Online migrations at scale](https://stripe.com/blog/online-migrations)
+- [When life gives you lemons, write better error messages](https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f)
