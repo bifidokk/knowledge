@@ -40,6 +40,7 @@
       * [Angular](programming-languages/js-libraries/angular.md)
       * [Node.js](programming-languages/js-libraries/nodejs.md)
       * [RxJs](programming-languages/js-libraries/rxjs.md)
+  * [Kotlin](programming-languages/kotlin.md)
   * [PHP](programming-languages/php.md)
     * [PHP Libraries](programming-languages/php-libraries/README.md)
       * [Laravel](programming-languages/php-libraries/laravel.md)
