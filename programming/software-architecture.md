@@ -11,4 +11,5 @@
 - [Event Driven Architecture — 5 Pitfalls to Avoid](https://medium.com/wix-engineering/event-driven-architecture-5-pitfalls-to-avoid-b3ebf885bdb1)
 - [Паттерн Outbox: как не растерять сообщения в микросервисной архитектуре](https://habr.com/ru/company/lamoda/blog/678932/)
 - ["Understanding Microservices with Distributed Tracing" by Lita Cho](https://www.youtube.com/watch?v=URCLeycMrhU)
-- [Design Microservice Architectures the Right Way] (https://youtu.be/j6ow-UemzBc)
+- [Design Microservice Architectures the Right Way](https://youtu.be/j6ow-UemzBc)
+- [Resilience Patterns for Synchronous Microservices](https://levelup.gitconnected.com/resilience-patterns-for-synchronous-microservices-communication-1cc9a0bbfc3d)
