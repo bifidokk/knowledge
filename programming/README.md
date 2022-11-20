@@ -11,3 +11,4 @@
 - [When life gives you lemons, write better error messages](https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f)
 - [YAGNI exceptions](https://lukeplant.me.uk/blog/posts/yagni-exceptions/)
 - [How to Take Great Engineers & Make Them Great Technical Leaders](https://youtu.be/RtMmxqkPVug)
+- [35 Misconceptions about date and time](https://www.meziantou.net/misconceptions-about-date-and-time.htm)
