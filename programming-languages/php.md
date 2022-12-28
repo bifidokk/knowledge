@@ -7,3 +7,5 @@
 * [Upgrading a Project to PHP 8.0](https://medium.com/oro-development/upgrade-to-php-8-64f770ae4479)
 * [Writing better Regular Expressions in PHP](https://php.watch/articles/php-regex-readability)
 * [When to use empty in PHP? I’d say never](https://beberlei.de/2021/02/19/when_to_use_empty_in_php_i_say_never.html)
+* [Поиск и устранение утечек памяти в PHP / Валентин Удальцов](https://youtu.be/NNMp-97rk9c)
+* [Поиск и устранение утечек памяти в PHP](https://github.com/vudaltsov/php-memory-leaks)
