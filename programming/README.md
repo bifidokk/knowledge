@@ -13,3 +13,4 @@
 - [How to Take Great Engineers & Make Them Great Technical Leaders](https://youtu.be/RtMmxqkPVug)
 - [35 Misconceptions about date and time](https://www.meziantou.net/misconceptions-about-date-and-time.htm)
 - [How do One-Time passwords work?](https://zserge.com/posts/one-time-passwords/)
+- [Tips for analyzing logs](https://jvns.ca/blog/2022/12/07/tips-for-analyzing-logs/)
