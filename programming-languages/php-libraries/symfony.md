@@ -9,3 +9,4 @@
 * [How to dynamically validate some data with Symfony Validator](https://jolicode.com/blog/how-to-dynamically-validate-some-data-with-symfony-validator)
 * [Using PHP 8.1 enumerations in Symfony](https://alex-daubois.medium.com/using-php-8-1-enumerations-in-symfony-af5ba761135d)
 * [RabbitMQ topic example](http://www.inanzzz.com/index.php/post/ao2h/rabbitmq-topic-example-with-symfony-including-1-producer-1-exchange-2-queue-n-worker-2-consumer)
+* [Improved Financial Constraints](https://symfony.com/blog/new-in-symfony-4-3-improved-financial-constraints)
