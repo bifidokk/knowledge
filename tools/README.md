@@ -13,3 +13,4 @@ Awesome and useful tools
 - [Cronhub](https://cronhub.io/) - The fastest way to schedule and monitor cron jobs 
 - [Upstash](https://upstash.com) - Serverless Data for Kafka and Redis
 - [PostgreSQL as a Service](https://www.elephantsql.com/)
+- [Yark](https://github.com/Owez/yark) - YouTube archiving made simple.
