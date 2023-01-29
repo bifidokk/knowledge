@@ -12,3 +12,4 @@
 - [Architecture and Design Principles for Online Food Delivery](https://sandesh-deshmane.medium.com/architecture-and-design-principles-for-online-food-delivery-system-33bfda73785d)
 - [Consistent Hashing](https://www.youtube.com/watch?v=UF9Iqmg94tk)
 - [Designing a Payment System](https://newsletter.pragmaticengineer.com/p/designing-a-payment-system)
+- [System Design Interview Survival Guide (2023): Preparation Strategies and Practical Tips](https://levelup.gitconnected.com/system-design-interview-survival-guide-2023-preparation-strategies-and-practical-tips-ba9314e6b9e3)
