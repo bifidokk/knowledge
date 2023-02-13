@@ -12,3 +12,5 @@
 - [The Many Ways to Manage Access to an EC2 Instance](https://blog.symops.com/2022/09/22/ec2-access/)
 - [AWS — Difference between Amazon EventBridge and Amazon SNS](https://medium.com/awesome-cloud/aws-difference-between-amazon-eventbridge-and-amazon-sns-comparison-aws-eventbridge-vs-aws-sns-46708bf5313)
 - [Building next-gen applications with event-driven architectures](https://www.youtube.com/watch?v=SbL3a9YOW7s)
+- [Fully Managed Blue/Green Deployments in Amazon Aurora and Amazon RDS](https://aws.amazon.com/ru/blogs/aws/new-fully-managed-blue-green-deployments-in-amazon-aurora-and-amazon-rds/)
+- [Building next-gen applications with event-driven architectures](https://www.youtube.com/watch?v=SbL3a9YOW7s)
