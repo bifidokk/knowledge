@@ -15,3 +15,4 @@
 - [How do One-Time passwords work?](https://zserge.com/posts/one-time-passwords/)
 - [Tips for analyzing logs](https://jvns.ca/blog/2022/12/07/tips-for-analyzing-logs/)
 - [Blue-Green Deployment from the Trenches](https://www.infoq.com/articles/blue-green-deployments)
+- [Developing Restful APIs: A Comprehensive Set of Guidelines by Zalando](https://github.com/zalando/restful-api-guidelines)
