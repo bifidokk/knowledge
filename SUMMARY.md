@@ -52,6 +52,7 @@
   * [Continuous integration](programming/continuous-integration.md)
   * [JWT](programming/jwt.md)
   * [Domain-driven design](programming/domain-driven-design.md)
+  * [Search engines](programming/search-engines.md)
   * [System design](programming/system-design.md)
   * [Software architecture](programming/software-architecture.md)
   * [Software testing](programming/software-testing.md)
