@@ -5,3 +5,4 @@
  - [Bottleneck #01: Tech Debt](https://martinfowler.com/articles/bottlenecks-of-scaleups/01-tech-debt.html)
  - [The 25 Percent Rule for Tackling Technical Debt](https://shopify.engineering/technical-debt-25-percent-rule)
  - [Teamlead Roadmap](https://tlroadmap.io/)
+ - [Рецепты классного тимлида: инструменты, подходы, практики / Дмитрий Ли (Badoo)](https://youtu.be/1dDBXTu1I7I)
