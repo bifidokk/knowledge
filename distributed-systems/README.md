@@ -8,3 +8,4 @@
 - [Outbox, Inbox patterns and delivery guarantees explained](https://event-driven.io/en/outbox_inbox_patterns_and_delivery_guarantees_explained/)
 - [Ticket Servers: Distributed Unique Primary Keys on the Cheap](https://code.flickr.net/2010/02/08/ticket-servers-distributed-unique-primary-keys-on-the-cheap/)
 - [Microservice Hell](https://sheepcode.substack.com/p/devlife-5-microservice-hell)
+- [Exactly Once Processing](https://medium.com/@sriramr083/exactly-once-processing-5e695de8b0d0)
