@@ -1,8 +1,9 @@
-#Message queue
+# Message queue
 
-##Kafka
+## Kafka
 - [What is Apache Kafka®?](https://www.youtube.com/watch?v=FKgi3n-FyNU)
 - [Exactly-once Semantics is Possible: Here's How Apache Kafka Does it](https://www.confluent.io/blog/exactly-once-semantics-are-possible-heres-how-apache-kafka-does-it/)
+- [Troubleshooting Kafka for 2000 Microservices at Wix](https://medium.com/wix-engineering/troubleshooting-kafka-for-2000-microservices-at-wix-986ee382fd1e)
 
 ## Links
 
