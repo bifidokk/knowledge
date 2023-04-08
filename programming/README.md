@@ -17,3 +17,4 @@
 - [Blue-Green Deployment from the Trenches](https://www.infoq.com/articles/blue-green-deployments)
 - [Developing Restful APIs: A Comprehensive Set of Guidelines by Zalando](https://github.com/zalando/restful-api-guidelines)
 - [Supercronic is a crontab-compatible job runner, designed specifically to run in containers.](https://github.com/aptible/supercronic)
+- [ID-баттл: UUID vs автоинкремент](https://youtu.be/Xr_SNd9LIng)
