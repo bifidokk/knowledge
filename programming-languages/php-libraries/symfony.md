@@ -10,3 +10,4 @@
 * [Using PHP 8.1 enumerations in Symfony](https://alex-daubois.medium.com/using-php-8-1-enumerations-in-symfony-af5ba761135d)
 * [RabbitMQ topic example](http://www.inanzzz.com/index.php/post/ao2h/rabbitmq-topic-example-with-symfony-including-1-producer-1-exchange-2-queue-n-worker-2-consumer)
 * [Improved Financial Constraints](https://symfony.com/blog/new-in-symfony-4-3-improved-financial-constraints)
+* [Symfony Contributing](https://github.com/symfony/symfony/blob/d5423dbabd68370190dec217cd7b833027308a0c/CONTRIBUTING.md#enroll-beta)
