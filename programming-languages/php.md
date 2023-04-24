@@ -9,3 +9,4 @@
 * [When to use empty in PHP? I’d say never](https://beberlei.de/2021/02/19/when_to_use_empty_in_php_i_say_never.html)
 * [Поиск и устранение утечек памяти в PHP / Валентин Удальцов](https://youtu.be/NNMp-97rk9c)
 * [Поиск и устранение утечек памяти в PHP](https://github.com/vudaltsov/php-memory-leaks)
+* [Extending PHP 8.1 enums with attributes ](https://laravel-news.com/extending-php-enums-with-attributes)

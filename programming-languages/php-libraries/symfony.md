@@ -12,3 +12,4 @@
 * [Improved Financial Constraints](https://symfony.com/blog/new-in-symfony-4-3-improved-financial-constraints)
 * [Symfony Contributing](https://github.com/symfony/symfony/blob/d5423dbabd68370190dec217cd7b833027308a0c/CONTRIBUTING.md#enroll-beta)
 * [Using PHP enumerations with your Symfony workflows](https://www.strangebuzz.com/en/blog/using-php-enumerations-with-your-symfony-workflows)
+* [Protect your application with Symfony rate limiter component](https://www.mon-code.net/post/170/protect-your-application-with-symfony-rate-limiter-component)
