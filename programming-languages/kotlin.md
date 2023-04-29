@@ -15,3 +15,4 @@
 - [How to use an in-memory database for testing on Ktor](https://www.marcogomiero.com/posts/2021/ktor-in-memory-db-testing/)
 - [KtorEasy](https://github.com/mathias21/KtorEasy)
 - [KotlinConf 2018 - Building Server Backends with Ktor by Ryan Harter]( https://youtu.be/V4PS3IjIzlw)
+- [Kotlin linter in spirit of standard/standard (JavaScript) and gofmt (Go)](https://pinterest.github.io/ktlint/)
