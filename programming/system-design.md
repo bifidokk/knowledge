@@ -15,3 +15,4 @@
 - [System Design Interview Survival Guide (2023): Preparation Strategies and Practical Tips](https://levelup.gitconnected.com/system-design-interview-survival-guide-2023-preparation-strategies-and-practical-tips-ba9314e6b9e3)
 - [A Senior Engineer’s Guide to the System Design Interview](https://interviewing.io/guides/system-design-interview)
 - [How Figma’s multiplayer technology works](https://www.figma.com/blog/how-figmas-multiplayer-technology-works/)
+- [Как раскатывать опасный рефакторинг на прод с миллионом пользователей?](https://habr.com/ru/companies/manychat/articles/499034/)
