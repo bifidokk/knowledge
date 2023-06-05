@@ -15,3 +15,4 @@
 * [Protect your application with Symfony rate limiter component](https://www.mon-code.net/post/170/protect-your-application-with-symfony-rate-limiter-component)
 * [Symfony UUID, Doctrine and type-hinting: everything you should know](https://medium.com/ekino-france/symfony-uuid-doctrine-and-type-hinting-everything-you-should-know-b846519a9927)
 * [Convert dynamically Request content to DTO with Symfony](https://medium.com/@etearner/how-to-transform-request-content-to-dto-with-symfony-6-2-84c9c8543200)
+* [Configure Symfony Secrets with HashiCorp Vault](https://david-garcia.medium.com/configure-symfony-secrets-with-hashicorp-vault-4006d07a2db)

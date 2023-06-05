@@ -14,3 +14,4 @@ Awesome and useful tools
 - [Upstash](https://upstash.com) - Serverless Data for Kafka and Redis
 - [PostgreSQL as a Service](https://www.elephantsql.com/)
 - [Yark](https://github.com/Owez/yark) - YouTube archiving made simple.
+- [CapRover](https://caprover.com/) - Free and Open Source PaaS!
