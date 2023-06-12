@@ -12,3 +12,4 @@
 - [Building Event Driven Architectures](https://serverlessland.com/event-driven-architecture/intro)
 - [Untangling Microservices, or Balancing Complexity in Distributed Systems](https://vladikk.com/2020/04/09/untangling-microservices)
 - [EventCatalog: Discover, Explore and Document your Event Driven Architectures.](https://www.eventcatalog.dev/)
+- [Creating event-driven microservices: the why, how and what by Andrew Schofield](https://youtu.be/ksRCq0BJef8)
