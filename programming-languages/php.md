@@ -10,3 +10,4 @@
 * [Поиск и устранение утечек памяти в PHP / Валентин Удальцов](https://youtu.be/NNMp-97rk9c)
 * [Поиск и устранение утечек памяти в PHP](https://github.com/vudaltsov/php-memory-leaks)
 * [Extending PHP 8.1 enums with attributes ](https://laravel-news.com/extending-php-enums-with-attributes)
+* [Avoiding empty() in PHP](https://localheinz.com/articles/2023/05/10/avoiding-empty-in-php/)

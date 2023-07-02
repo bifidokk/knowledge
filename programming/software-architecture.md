@@ -17,3 +17,4 @@
 - [Master the Art of Caching for System Design Interviews: A Complete Guide](https://levelup.gitconnected.com/master-the-art-of-caching-for-system-design-interviews-a-complete-guide-676bb49d194)
 - [5 Challenges to Address When Moving to a Read Optimized View in Production](https://www.wix.engineering/post/5-challenges-to-address-when-moving-to-a-read-optimized-view-in-production)
 - [Архитектура платежной системы: почти enterprise / Филипп Дельгядо](https://www.youtube.com/watch?v=wMcWo2cT7Ck)
+- [Error Handling in Event-Driven Systems](https://levelup.gitconnected.com/error-handling-in-event-driven-systems-1f0a7ef2cfb7)
