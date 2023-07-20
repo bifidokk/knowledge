@@ -16,3 +16,4 @@
 * [Symfony UUID, Doctrine and type-hinting: everything you should know](https://medium.com/ekino-france/symfony-uuid-doctrine-and-type-hinting-everything-you-should-know-b846519a9927)
 * [Convert dynamically Request content to DTO with Symfony](https://medium.com/@etearner/how-to-transform-request-content-to-dto-with-symfony-6-2-84c9c8543200)
 * [Configure Symfony Secrets with HashiCorp Vault](https://david-garcia.medium.com/configure-symfony-secrets-with-hashicorp-vault-4006d07a2db)
+* [Symfony + Outbox Pattern + RabbitMQ: A Key for Reliable Microservices](https://medium.com/devwarlocks/symfony-outbox-pattern-rabbitmq-a-key-for-reliable-microservices-10bf267fdb0a)
