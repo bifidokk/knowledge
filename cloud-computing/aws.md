@@ -14,3 +14,4 @@
 - [Building next-gen applications with event-driven architectures](https://www.youtube.com/watch?v=SbL3a9YOW7s)
 - [Fully Managed Blue/Green Deployments in Amazon Aurora and Amazon RDS](https://aws.amazon.com/ru/blogs/aws/new-fully-managed-blue-green-deployments-in-amazon-aurora-and-amazon-rds/)
 - [AWS SQS, SNS, Kinesis, EventBridge : How to choose ?](https://dev.to/onepoint/aws-sqs-sns-kinesis-eventbridge-how-to-choose--32l7)
+- [Running scheduled jobs on AWS Elastic Beanstalk](https://medium.com/motorway-engineering/running-scheduled-jobs-on-aws-elastic-beanstalk-8c43bac6c556)
