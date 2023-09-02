@@ -18,3 +18,4 @@
 - [5 Challenges to Address When Moving to a Read Optimized View in Production](https://www.wix.engineering/post/5-challenges-to-address-when-moving-to-a-read-optimized-view-in-production)
 - [Архитектура платежной системы: почти enterprise / Филипп Дельгядо](https://www.youtube.com/watch?v=wMcWo2cT7Ck)
 - [Error Handling in Event-Driven Systems](https://levelup.gitconnected.com/error-handling-in-event-driven-systems-1f0a7ef2cfb7)
+- [Кошелек с нуля в 2020 году: технологии, вызовы, решения / Филипп Дельгядо](https://youtu.be/KPl6quKgffo)
