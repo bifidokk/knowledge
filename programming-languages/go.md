@@ -17,3 +17,4 @@
 * [Darker Corners of Go](https://rytisbiel.com/2021/03/06/darker-corners-of-go/)
 * [Timeout Context In Go](https://medium.com/geekculture/timeout-context-in-go-e88af0abd08d)
 * [Fixing For Loops in Go 1.22](https://go.dev/blog/loopvar-preview)
+* [An Introduction to Programming in Go](https://www.golang-book.com/books/intro)
