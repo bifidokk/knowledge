@@ -19,3 +19,4 @@
 * [Fixing For Loops in Go 1.22](https://go.dev/blog/loopvar-preview)
 * [An Introduction to Programming in Go](https://www.golang-book.com/books/intro)
 * [Organising Database Access in Go](https://www.alexedwards.net/blog/organising-database-access)
+* [Create your first Go REST API with JWT Authentication in Gin Framework](https://seefnasrul.medium.com/create-your-first-go-rest-api-with-jwt-authentication-in-gin-framework-dbe5bda72817)
