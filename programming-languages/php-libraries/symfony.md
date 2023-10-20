@@ -17,3 +17,4 @@
 * [Convert dynamically Request content to DTO with Symfony](https://medium.com/@etearner/how-to-transform-request-content-to-dto-with-symfony-6-2-84c9c8543200)
 * [Configure Symfony Secrets with HashiCorp Vault](https://david-garcia.medium.com/configure-symfony-secrets-with-hashicorp-vault-4006d07a2db)
 * [Symfony + Outbox Pattern + RabbitMQ: A Key for Reliable Microservices](https://medium.com/devwarlocks/symfony-outbox-pattern-rabbitmq-a-key-for-reliable-microservices-10bf267fdb0a)
+* [Recovering from Doctrine exceptions](https://dev.to/atouzard/recovering-from-doctrine-exceptions-nkg)

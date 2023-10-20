@@ -11,3 +11,4 @@
 * [Unexpected downsides of UUID keys in PostgreSQL](https://www.cybertec-postgresql.com/en/unexpected-downsides-of-uuid-keys-in-postgresql/)
 * [Explaining the Postgres iceberg](https://avestura.dev/blog/explaining-the-postgres-meme)
 * [Introducing pgroll: zero-downtime, reversible, schema migrations for Postgres](https://xata.io/blog/pgroll-schema-migrations-postgres)
+* [Working with Money in Postgres](https://www.crunchydata.com/blog/working-with-money-in-postgres)
