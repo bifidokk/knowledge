@@ -19,3 +19,4 @@
 - [Архитектура платежной системы: почти enterprise / Филипп Дельгядо](https://www.youtube.com/watch?v=wMcWo2cT7Ck)
 - [Error Handling in Event-Driven Systems](https://levelup.gitconnected.com/error-handling-in-event-driven-systems-1f0a7ef2cfb7)
 - [Кошелек с нуля в 2020 году: технологии, вызовы, решения / Филипп Дельгядо](https://youtu.be/KPl6quKgffo)
+- [The Architecture Behind A One-Person Tech Startup](https://anthonynsimon.com/blog/one-man-saas-architecture/)
