@@ -1,5 +1,5 @@
-#Redis
+# Redis
 
-##Links
+## Links
 
 - [Redis Explained](https://architecturenotes.co/redis/)

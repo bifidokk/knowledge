@@ -1,5 +1,5 @@
-#Internationalization
+# Internationalization
 
-##Links
+## Links
 
 * [Localizer](https://localizer.dev/)
