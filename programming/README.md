@@ -18,3 +18,4 @@
 - [Developing Restful APIs: A Comprehensive Set of Guidelines by Zalando](https://github.com/zalando/restful-api-guidelines)
 - [Supercronic is a crontab-compatible job runner, designed specifically to run in containers.](https://github.com/aptible/supercronic)
 - [ID-баттл: UUID vs автоинкремент](https://youtu.be/Xr_SNd9LIng)
+- [How to (and how not to) design REST APIs](https://github.com/stickfigure/blog/wiki/How-to-(and-how-not-to)-design-REST-APIs)
