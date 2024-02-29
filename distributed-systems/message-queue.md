@@ -13,3 +13,4 @@
 - [Why we chose Kafka for the Trello socket architecture - Atlassian Engineering](https://www.atlassian.com/engineering/why-we-chose-kafka)
 - [RabbitMQ Best Practice | Webinar with CloudAMQP](https://youtu.be/HzPOQsMWrGQ)
 - [Как правильно выбирать очередь](https://youtu.be/hEC8CX8Drac)
+- [Integrating PHP Applications with Ecotone and RabbitMQ](https://blog.devgenius.io/integrating-php-applications-with-ecotone-and-rabbitmq-df60f93eb1db)
