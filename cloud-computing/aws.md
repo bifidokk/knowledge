@@ -16,3 +16,4 @@
 - [AWS SQS, SNS, Kinesis, EventBridge : How to choose ?](https://dev.to/onepoint/aws-sqs-sns-kinesis-eventbridge-how-to-choose--32l7)
 - [Running scheduled jobs on AWS Elastic Beanstalk](https://medium.com/motorway-engineering/running-scheduled-jobs-on-aws-elastic-beanstalk-8c43bac6c556)
 - [Generate HTML to PDF using AWS Lambda and Wkhtmltopdf](https://karask.com/generate-html-to-pdf-using-aws-lambda-and-wkhtmltopdf)
+- [Serverless 1 — Lambda](https://medium.com/@unubold0521/serverless-1-lambda-93db23fb9db9)
