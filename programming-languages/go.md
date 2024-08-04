@@ -22,3 +22,4 @@
 * [Create your first Go REST API with JWT Authentication in Gin Framework](https://seefnasrul.medium.com/create-your-first-go-rest-api-with-jwt-authentication-in-gin-framework-dbe5bda72817)
 * [Golang Testing — JSON Responses with Gin](https://craig-childs.medium.com/testing-gin-json-responses-1f258ce3b0b1)
 * [Master Go Programming With These Concurrency Patterns](https://youtu.be/qyM8Pi1KiiM)
+* [Channel Axioms](https://dave.cheney.net/2014/03/19/channel-axioms)
