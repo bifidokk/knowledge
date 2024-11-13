@@ -20,3 +20,4 @@
 - [ID-баттл: UUID vs автоинкремент](https://youtu.be/Xr_SNd9LIng)
 - [How to (and how not to) design REST APIs](https://github.com/stickfigure/blog/wiki/How-to-(and-how-not-to)-design-REST-APIs)
 - [APIs as infrastructure: future-proofing Stripe with versioning](https://stripe.com/blog/api-versioning)
+- [API Versioning at Monite](https://dev.to/monite/api-versioning-at-monite-3ba3)
