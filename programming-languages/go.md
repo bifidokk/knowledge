@@ -26,3 +26,4 @@
 * [Panic/Recover Use Cases](https://go101.org/article/panic-and-recover-use-cases.html)
 * [Go sync.Mutex: Normal and Starvation Mode](https://victoriametrics.com/blog/go-sync-mutex/index.html)
 * [Building a pub/sub service in Go](https://blog.logrocket.com/building-pub-sub-service-go/)
+* [How to implement Server-Sent Events in Go](https://packagemain.tech/p/implementing-server-sent-events-in-go)
