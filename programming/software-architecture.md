@@ -20,3 +20,4 @@
 - [Error Handling in Event-Driven Systems](https://levelup.gitconnected.com/error-handling-in-event-driven-systems-1f0a7ef2cfb7)
 - [Кошелек с нуля в 2020 году: технологии, вызовы, решения / Филипп Дельгядо](https://youtu.be/KPl6quKgffo)
 - [The Architecture Behind A One-Person Tech Startup](https://anthonynsimon.com/blog/one-man-saas-architecture/)
+- [Tech stack for Search system with Micro-services architecture](https://tusharsheth.medium.com/tech-stack-for-search-system-with-micro-services-architecture-38852c769d87)
