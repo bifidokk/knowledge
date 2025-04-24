@@ -27,3 +27,4 @@
 * [Go sync.Mutex: Normal and Starvation Mode](https://victoriametrics.com/blog/go-sync-mutex/index.html)
 * [Building a pub/sub service in Go](https://blog.logrocket.com/building-pub-sub-service-go/)
 * [How to implement Server-Sent Events in Go](https://packagemain.tech/p/implementing-server-sent-events-in-go)
+* [Go, Allure and HTTP or how to make HTTP tests for services in Go cute](https://medium.com/@siller174/go-allure-and-http-or-how-to-make-http-tests-for-services-in-go-cute-c301493d5127)
