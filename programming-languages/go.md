@@ -28,3 +28,4 @@
 * [Building a pub/sub service in Go](https://blog.logrocket.com/building-pub-sub-service-go/)
 * [How to implement Server-Sent Events in Go](https://packagemain.tech/p/implementing-server-sent-events-in-go)
 * [Go, Allure and HTTP or how to make HTTP tests for services in Go cute](https://medium.com/@siller174/go-allure-and-http-or-how-to-make-http-tests-for-services-in-go-cute-c301493d5127)
+* [How I sent 500 million HTTP requests to 2.5 million hosts](https://www.moczadlo.com/2024/how-i-sent-500-million-http-requests-in-under-24h)
