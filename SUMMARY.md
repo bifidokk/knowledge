@@ -1,6 +1,7 @@
 # Table of contents
 
 * [About me](README.md)
+* [AI](ai/README.md)
 * [Awesome lists](awesome-lists/README.md)
 * [Books](books/README.md)
 * [Cloud computing](cloud-computing/README.md)
