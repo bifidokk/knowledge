@@ -12,3 +12,4 @@
 * [Explaining the Postgres iceberg](https://avestura.dev/blog/explaining-the-postgres-meme)
 * [Introducing pgroll: zero-downtime, reversible, schema migrations for Postgres](https://xata.io/blog/pgroll-schema-migrations-postgres)
 * [Working with Money in Postgres](https://www.crunchydata.com/blog/working-with-money-in-postgres)
+* [PostgreSQL at Scale: Database Schema Changes Without Downtime](https://medium.com/paypal-tech/postgresql-at-scale-database-schema-changes-without-downtime-20d3749ed680)
